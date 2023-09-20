@@ -12,7 +12,7 @@
 
 
 
-Bu kitapta temel olarak kişinin kendisiyle ilgili iletişimi biraz daha fazla karşımıza çıkacak kitapta küçük küçük hikayeler bulacaksınız ama kitap bir roman değil hikaye değil akıp giden bir söyleşi şeklinde ilerliyor ve sizi sarıp sarmalıyor hatta akışa o derece katılıyorsunuz ki okurken Doğan Cüceloğluyla bir kafede oturup çay içiyor ve sohbet akıyor havasında hissedeceksiniz Kitap kapağında da yazdığı gibi güçlü bir yaşam için öneri derlemelerinden oluşuyor kitapta düşündüren ve etkileyen çok fazla nokta var ve 14 başlık altında toplanılmış ,her başlığın altında kendinizden çok fazla parçalar bulabileceğiniz bir başlıktan daha fazla derinliğe ineceğiniz Güzellikler bulacaksınız.
+
 
 
 
