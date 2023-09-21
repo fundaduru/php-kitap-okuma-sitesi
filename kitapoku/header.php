@@ -45,9 +45,9 @@
         <a class="nav-link" href="arsiv2.php">KİTAP ARŞİVİ</a>
       </li>
     
-      </li>
+     
       <li id="mailto" style="float: right; font-size: 15px; "><a href="mailto:kitapoku@gmail.com">kitapoku@gmail.com</a></li>
       
     </ul>
-  </div>
+ 
 </nav>
