@@ -43,10 +43,10 @@
         <a class="nav-link" href="index.php">ANASAYFA </a>
       </li>
           
-        </div>
-      </li>
+        
+   
       <li id="mailto" style="float: right; font-size: 15px; "><a href="mailto:kitapoku@gmail.com">kitapoku@gmail.com</a></li>
       
     </ul>
-  </div>
+ 
 </nav>
